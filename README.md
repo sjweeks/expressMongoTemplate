@@ -1,3 +1,7 @@
+## Description ##
+
+This repository provides the basic template for a MongoDB and Express app
+
 ## folder structure ##
 
 - lib/ contains all local modules - API etc. 
