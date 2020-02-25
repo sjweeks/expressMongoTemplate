@@ -1,0 +1,20 @@
+{
+  "name": "mongodbexpress",
+  "version": "1.0.0",
+  "description": "- lib/ contains all local modules - API etc.  - public/ = any frontend. So CSS, JS and image folder etc - views/ contains all individual pages, eg, signup.hbs - views/layouts contains the layout for how each page will render - index.js entry point for the application",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express-handlebars": "^3.1.0",
+    "fs": "0.0.1-security"
+  }
+}
